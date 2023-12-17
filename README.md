@@ -1,9 +1,6 @@
-👋 Hi, I'm @hicker-coder, a detail-oriented data scientist with extensive experience in RPA and web scraping.
-👀 I specialize in data mining, analysis, statistical modeling, and machine learning to discover patterns and insights that help organizations make informed decisions.
-🌱 Currently learning advanced techniques in LLMs and Prompting techniques .
-💞️ Looking to collaborate on challenging projects and connect with fellow data enthusiasts. Contact me on LinkedIn or email me directly
+👋 Hey there, I'm @hicker-coder— a Data Scientist and Python Dev with a strong background in RPA and web scraping. My game? Uncovering hidden gems in data through mining, detailed analysis, and powerful statistical modeling, all while mastering the art of machine learning.
 
-<!---
-hicker-coder/hicker-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Right now, I'm diving deep into the world of open-source Large Language Models (LLMs).
+
+I'm on the lookout for exciting projects and keen to team up with other data enthusiasts. Find me on LinkedIn or shoot me an email, and let's explore the possibilities of open-source LLMs together!
 --->
